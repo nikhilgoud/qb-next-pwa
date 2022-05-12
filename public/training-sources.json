@@ -1,0 +1,24 @@
+{
+  "sources": [
+    {
+      "name": "JavaScript Interview Questions & Answers",
+      "description": "List of 1000 JavaScript Interview Questions.",
+      "url": "https://github.com/sudheerj/javascript-interview-questions"
+    },
+    {
+      "name": "React Interview Questions & Answers",
+      "description": "List of 500 React Interview Questions.",
+      "url": "https://github.com/sudheerj/reactjs-interview-questions"
+    },
+    {
+      "name": "Angular Interview Questions & Answers",
+      "description": "List of 300 Angular Interview Questions and answers.",
+      "url": "https://github.com/sudheerj/angular-interview-questions"
+    },
+    {
+      "name": "VueJs Interview Questions & Answers",
+      "description": "List of 300 VueJS Interview Questions And Answers.",
+      "url": "https://github.com/sudheerj/vuejs-interview-questions"
+    }
+  ]
+}

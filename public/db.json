@@ -1,0 +1,285 @@
+{
+  "department": [
+    {
+      "name": "IT",
+      "displayName": "Information Technology",
+      "description": ""
+    },
+    {
+      "name": "Government"
+    }
+  ],
+  "skillGroup": [
+    {
+      "department": "IT",
+      "name": "developer"
+    },
+    {
+      "department": "IT",
+      "name": "full-stack"
+    },
+    {
+      "department": "IT",
+      "name": "frontEnd"
+    },
+    {
+      "department": "IT",
+      "name": "web-dev"
+    },
+    {
+      "department": "IT",
+      "name": "backend"
+    },
+    {
+      "department": "IT",
+      "name": "mobile"
+    },
+    {
+      "department": "IT",
+      "name": "devops"
+    },
+    {
+      "department": "IT",
+      "name": "businessIntellgence"
+    }
+  ],
+  "skill": [
+    {
+      "department": "IT",
+      "name": "dataStrucures",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "dotnet",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "java",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "c#",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "javascript",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "html",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "css",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "angular",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "react",
+      "displayName": "React",
+      "description": "",
+      "url":"https://reactjs.org/docs/getting-started.html"
+    },
+    {
+      "department": "IT",
+      "name": "nextJS",
+      "displayName": "Next JS",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "vueJS",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "sql",
+      "displayName": "SQL",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "python",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "aws",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "azure",
+      "displayName": "",
+      "description": ""
+    },
+    {
+      "department": "IT",
+      "name": "git",
+      "displayName": "Git",
+      "description": "Source control"
+    }
+  ],
+  "questions": [
+    {
+      "id": "r1",
+      "name": "What is React?",
+      "description": "",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "react"]
+    },
+    {
+      "id": "r2",
+      "name": "What is Component lifecycle in React?",
+      "description": "How a component is painted to DOM and listens/handles user events",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "react"]
+    },
+    {
+      "id": "r3",
+      "name": "What is State management in React?",
+      "description": "How a component is affected w.r.t state changes ",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "react"]
+    },
+    {
+      "id": "r4",
+      "name": "How to identify initial render & re-render of a component in React?",
+      "description": "",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "react"]
+    },
+    {
+      "id": "it1",
+      "name": "What is Unit-testing (TDD)?",
+      "description": "",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT"]
+    },
+    {
+      "id": "a1",
+      "name": "What are entry components & declarations in Angular?",
+      "description": "",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a2",
+      "name": "What is encapsulation, different types of encapsulations in Angular?",
+      "description": "",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a3",
+      "name": "What are decorators in Angular?",
+      "description": "",
+      "answer": "",
+      "answerVisible": "",
+      "testcases": [],
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a4",
+      "name": "What is change detection strategy in Angular?",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a5",
+      "name": "What is tree shaking in Angular?",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a6",
+      "name": "What is Angular Ivy?",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a7",
+      "name": "What is dependency injection in Angular?",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a8",
+      "name": "Observables vs Promise?",
+      "tags": ["IT", "frontend", "javascript", "angular", "react"]
+    },
+    {
+      "id": "a9",
+      "name": "What is difference b/w Behavior Subject, Action Subject & Subject in Angular?",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a10",
+      "name": "What is service worker in Angular?",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a11",
+      "name": "What are Lifecycle hooks in Angular?",
+      "description": "Name all available events and their order of execution.",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a12",
+      "name": "What is app bootstrapping in Angular?",
+      "description": "different types of loadings and its differences",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a13",
+      "name": "What is lazy loading in Angular?",
+      "description": "how can we achieve it and any advantage or not",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "a14",
+      "name": "Component interaction in Angular?",
+      "description": "Types of component-to-component interaction, its usages and scenarios",
+      "tags": ["IT", "frontend", "angular"]
+    },
+    {
+      "id": "j1",
+      "name": "Null vs Undefined in Javascript?",
+      "answer": "Null: It is the intentional absence of the value. It is one of the primitive values of JavaScript. \n Undefined: It means the value does not exist in the compiler.",
+      "answerVisible": false,
+      "tags": ["IT", "javascript"]
+    }
+  ]
+}
