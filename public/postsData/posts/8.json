@@ -1,0 +1,16 @@
+{
+  "postId": 8,
+  "postType": "Information",
+  "postDetails": {
+    "Heading": "dfdfd",
+    "SubHeading": "dfrvc jds ds fb   dskjvkjsdkbdsk  kdjsks v  dskvjkbdskv akjdk   djanbckbdv  kdkjsbdkvn   dkjvbjkbkbdvs knkndszolds",
+    "tags": [
+      "sdvf",
+      "dfgb"
+    ],
+    "author": "ssssss",
+    "date": "March 2023",
+    "image": "app-screenshots.png",
+    "content": "<InformationLayout>\n\n<Image src='../../person-holding-phone.webp'/>\n\n<PostHeading>Insights from Generation Z to get us thinking.</PostHeading>\n\n<Tags>Wellness,Student</Tags>\n\n<SubHeading>As the Uneo team – which itself is almost entirely made up of Generation Z’ers - started its journey to understand the use of technology and healthcare, we decided it was best to learn more from local high schoolers.</SubHeading>\n\n</InformationLayout>"
+  }
+}
