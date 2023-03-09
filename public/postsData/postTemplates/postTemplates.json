@@ -2,7 +2,7 @@
     {
         "templateID" : 1,
         "templateType" : "Information",
-        "templateBody" : "<InformationLayout>\n\n<Image src='../../person-holding-phone.webp'/>\n\n<PostHeading>Insights from Generation Z to get us thinking.</PostHeading>\n\n<!--Enter tags delimited by comma(,)--><Tags>Wellness,Student</Tags>\n\n<SubHeading>As the Uneo team – which itself is almost entirely made up of Generation Z’ers - started its journey to understand the use of technology and healthcare, we decided it was best to learn more from local high schoolers.</SubHeading>\n\n</InformationLayout>"
+        "templateBody" : "<InformationLayout>\n\n<Image src='../../person-holding-phone.webp'/>\n\n<PostHeading>Insights from Generation Z to get us thinking.</PostHeading>\n\n<!--Enter tags delimited by comma(,)-->\n<Tags>Wellness,Student</Tags>\n\n<SubHeading>As the Uneo team – which itself is almost entirely made up of Generation Z’ers - started its journey to understand the use of technology and healthcare, we decided it was best to learn more from local high schoolers.</SubHeading>\n\n</InformationLayout>"
 
     },
     {
