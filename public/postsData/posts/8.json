@@ -1,16 +1,16 @@
 {
-  "postId": 8,
-  "postType": "NewsLetter",
+  "postId": "8",
+  "postType": "Information",
   "postDetails": {
     "Heading": "sample heading",
-    "SubHeading": "some random descriptiion mentioning something",
+    "SubHeading": "some random description mentioning something",
     "tags": [
       "tag1",
       "tag2"
     ],
     "author": "Nikhil",
-    "date": "2023-03-24",
-    "image": "blob:http://localhost:3000/b3c68749-6d7c-4921-90ad-0b45632d6c5a",
+    "date": "March 2023",
+    "image": "blob:http://localhost:3000/dae1fe02-0e29-41c5-b5ff-a9f4368bdd70",
     "content": "<NewsLetterLayout>\n\n<Image src='../../prosper-app-collage.png'/>\n\n<PressContact></PressContact>\n\n<ContactInfo content='Eric Sullivan, Uneo Health, eric@uneohealth.com, 410-440-8104'></ContactInfo>\n\n<PostHeading>Uneo Health launches its first solution, Prosper, to help teens and young adults find wellness resources to address the growing mental and physical health crisis.</PostHeading>\n\n<Paragraph>Uneo, Inc. (Uneo Health) announced today that it has launched the Prosper wellness app to provide a wide range of self-care tools,educational assets, and links to healthcare resources including health plans and providers to support the user’s wellness journey.</Paragraph>\n\n<Paragraph>As a free consumer app to the younger user, Prosper reduces the barrier of entry for access and links the user to resources to support important healthcare challenges facing Gen Z and Millennials including anxiety, eating disorders, prediabetes, and bodyimage.</Paragraph>\n\n</NewsLetterLayout>"
   }
 }
