@@ -8,6 +8,6 @@
             "author" : "Eric Sullivan",
             "date" : "April 2022",
             "image" : "./graffiti.webp",
-            "content" : "<InformationLayout>\n\n<Image src='../../graffiti.webp'/>\n\n<PostHeading>The “Other” epidemic of our youth – prediabetes.</PostHeading>\n\n<!--Enter tags delimited by comma(,)-->\n<Tags>Prediabetes,Youth</Tags>\n\n<SubHeading>Qui aliqua amet eu sint irure. Cillum nisi laboris proident minim qui magna aliquip eu consequat veniam aliquip. Quis consequat mollit reprehenderit Lorem do labore culpa aliqua. Ipsum consequat occaecat veniam dolor ad fugiat ex irure culpa.</SubHeading>\n\n<Paragraph>It’s inarguably a positive for society is that so much attention is given to mental health issues affecting the youth of the U.S.</Paragraph>\n\n</InformationLayout>"
+            "content" : "<InformationLayout>\n\n<Img src='../../graffiti.webp'/>\n\n<PostHeading>The “Other” epidemic of our youth – prediabetes.</PostHeading>\n\n<Tags>Prediabetes,Youth</Tags>\n\n<SubHeading>Qui aliqua amet eu sint irure. Cillum nisi laboris proident minim qui magna aliquip eu consequat veniam aliquip. Quis consequat mollit reprehenderit Lorem do labore culpa aliqua. Ipsum consequat occaecat veniam dolor ad fugiat ex irure culpa.</SubHeading>\n\n<Paragraph>It’s inarguably a positive for society is that so much attention is given to mental health issues affecting the youth of the U.S.</Paragraph>\n\n</InformationLayout>"
         }
 }
