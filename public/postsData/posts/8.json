@@ -1,9 +1,9 @@
 {
-  "postId": 8,
+  "postId": "8",
   "postType": "Information",
   "postDetails": {
     "Heading": "sample heading",
-    "SubHeading": "some random description showing that the post has some description text",
+    "SubHeading": "some random description showing that the post have some description",
     "tags": [
       "tag1",
       "tag2"
@@ -11,6 +11,6 @@
     "author": "Nikhil",
     "date": "March 2023",
     "image": "Happyperson.jpg",
-    "content": "<InformationLayout>\n\n<Img src='IMG_7911.jpg'/>\n\n<Img src='../../person-holding-phone.webp'/>\n\n<PostHeading>Insights from Generation Z to get us thinking.</PostHeading>\n\n<Tags>Wellness,Student</Tags>\n\n<SubHeading>As the Uneo team – which itself is almost entirely made up of Generation Z’ers - started its journey to understand the use of technology and healthcare, we decided it was best to learn more from local high schoolers.</SubHeading>\n\n</InformationLayout>"
+    "content": "<InformationLayout>\n\n<Img src='../../person-holding-phone.webp'/>\n\n<PostHeading>Insights from Generation Z to get us thinking.</PostHeading>\n\n<Tags>Wellness,Student</Tags>\n\n<SubHeading>As the Uneo team – which itself is almost entirely made up of Generation Z’ers - started its journey to understand the use of technology and healthcare, we decided it was best to learn more from local high schoolers.</SubHeading>\n\n</InformationLayout>"
   }
 }
