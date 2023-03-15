@@ -1,0 +1,17 @@
+{
+  "postId": 9,
+  "postType": "Redirection",
+  "postDetails": {
+    "Heading": "sample heading",
+    "SubHeading": "sFB",
+    "tags": [
+      "DSFVB "
+    ],
+    "author": "",
+    "date": "",
+    "image": "",
+    "embed": ",n , ",
+    "externalLink": "https://www.youtube.com/watch?v=cYphGZWidMs",
+    "content": "This is Redirection Post"
+  }
+}
