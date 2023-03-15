@@ -1,0 +1,18 @@
+{
+  "postId": 9,
+  "postType": "Redirection",
+  "postDetails": {
+    "Heading": "sample heading",
+    "SubHeading": "dedvn bs visgvius vs vis vi dsiv sv idsgvi sdi sd vsg visdgiv ius idsgvi sziv ",
+    "tags": [
+      "tag1",
+      "tag2"
+    ],
+    "author": "",
+    "date": "",
+    "image": "Capture.png",
+    "embed": "Capture.png",
+    "externalLink": "https://www.youtube.com/watch?v=cYphGZWidMs",
+    "content": "This is Redirection Post"
+  }
+}
