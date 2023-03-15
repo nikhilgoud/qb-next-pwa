@@ -3,14 +3,14 @@
   "postType": "Information",
   "postDetails": {
     "Heading": "sample heading",
-    "SubHeading": "some random description mentioning something",
+    "SubHeading": "some random description showing that the post have some description",
     "tags": [
       "tag1",
       "tag2"
     ],
     "author": "Nikhil",
     "date": "March 2023",
-    "image": "neda-logo.png",
-    "content": "<NewsLetterLayout>\n\n<Img src='../../prosper-app-collage.png'/>\n\n<PressContact></PressContact>\n\n<ContactInfo content='Eric Sullivan, Uneo Health, eric@uneohealth.com, 410-440-8104'></ContactInfo>\n\n<PostHeading>Uneo Health launches its first solution, Prosper, to help teens and young adults find wellness resources to address the growing mental and physical health crisis.</PostHeading>\n\n<Paragraph>Uneo, Inc. (Uneo Health) announced today that it has launched the Prosper wellness app to provide a wide range of self-care tools,educational assets, and links to healthcare resources including health plans and providers to support the user’s wellness journey.</Paragraph>\n\n<Paragraph>As a free consumer app to the younger user, Prosper reduces the barrier of entry for access and links the user to resources to support important healthcare challenges facing Gen Z and Millennials including anxiety, eating disorders, prediabetes, and bodyimage.</Paragraph>\n\n</NewsLetterLayout>"
+    "image": "Happyperson.jpg",
+    "content": "<InformationLayout>\n\n<Img src='../../person-holding-phone.webp'/>\n\n<PostHeading>Insights from Generation Z to get us thinking.</PostHeading>\n\n<Tags>Wellness,Student</Tags>\n\n<SubHeading>As the Uneo team – which itself is almost entirely made up of Generation Z’ers - started its journey to understand the use of technology and healthcare, we decided it was best to learn more from local high schoolers.</SubHeading>\n\n</InformationLayout>"
   }
 }
